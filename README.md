@@ -1,7 +1,3 @@
-# Code Institute
+# Siobhains Bado
 
-Welcome Chris Z.,
-
-We have preinstalled all of the tools you need to get started.
-
-Happy coding!
+This repo is for training purposes
